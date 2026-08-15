@@ -65,7 +65,7 @@ export default function Contact() {
             </a>
           </div>
           <a
-  href="https://www.google.com/maps/search/?api=1&query=F45G%2BXRX%20Dan%20Dume%2C%20Katsina%2C%20Nigeria"
+  href="href="https://maps.app.goo.gl/NmQ8EmFEWfXpMAii9?g_st=ac"
   target="_blank"
   rel="noopener noreferrer"
   className="inline-block bg-blue-700 text-white px-8 py-4 rounded-lg font-bold hover:bg-blue-800 transition"
