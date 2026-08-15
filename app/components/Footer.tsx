@@ -64,10 +64,10 @@ export default function Footer() {
             <div className="mt-4 space-y-3 text-gray-300">
               <p>📍 Dandume, Katsina State, Nigeria</p>
 
-              <p>📞 09030916494</p>
+              <p>📞 07035592146</p>
 
               <a
-                href="https://wa.me/2349030916494"
+                href="https://wa.me/2347035592146"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block text-green-400 hover:text-green-300"

@@ -32,11 +32,11 @@ export default function Contact() {
             </h3>
 
             <p className="mt-2 text-gray-600">
-              09030916494
+              07035592146
             </p>
 
             <a
-              href="tel:09030916494"
+              href="tel:07035592146"
               className="inline-block mt-5 bg-blue-700 text-white px-6 py-3 rounded-lg font-semibold hover:bg-blue-900 transition"
             >
               Call Now
@@ -56,7 +56,7 @@ export default function Contact() {
             </p>
 
             <a
-              href="https://wa.me/2349030916494"
+              href="https://wa.me/2347035592146"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block mt-5 bg-green-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-600 transition"

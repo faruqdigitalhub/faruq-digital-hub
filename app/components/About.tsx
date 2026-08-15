@@ -93,7 +93,7 @@ export default function About() {
             </p>
 
             <a
-              href="tel:09030916494"
+              href="tel:07035592146"
               className="inline-block mt-6 bg-yellow-400 text-blue-900 px-6 py-3 rounded-lg font-bold hover:bg-yellow-300 transition"
             >
               📞 Call Us

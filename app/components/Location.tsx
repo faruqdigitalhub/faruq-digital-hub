@@ -53,7 +53,7 @@ export default function Location() {
               </p>
 
               <p>
-                📞 <strong>Phone:</strong> 09030916494
+                📞 <strong>Phone:</strong> 07035592146
               </p>
             </div>
 
@@ -69,7 +69,7 @@ export default function Location() {
               </a>
 
               <a
-                href="https://wa.me/2349030916494"
+                href="https://wa.me/2347035592146"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-green-500 text-white px-6 py-3 rounded-lg font-bold text-center hover:bg-green-600 transition"

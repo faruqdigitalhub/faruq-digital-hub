@@ -67,7 +67,7 @@ export default function PriceList() {
 
         <div className="text-center mt-10">
           <a
-            href="https://wa.me/2349030916494"
+            href="https://wa.me/2347035592146"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-green-500 text-white px-8 py-4 rounded-xl font-bold hover:bg-green-600 transition"

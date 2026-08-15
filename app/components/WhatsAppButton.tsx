@@ -5,7 +5,7 @@ import { FaWhatsapp } from "react-icons/fa";
 export default function WhatsAppButton() {
   return (
     <a
-      href="https://wa.me/2349030916494"
+      href="https://wa.me/2347035592146"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat with FARUQ DIGITAL HUB on WhatsApp"
