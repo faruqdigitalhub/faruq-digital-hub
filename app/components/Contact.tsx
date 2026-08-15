@@ -64,6 +64,14 @@ export default function Contact() {
               Chat on WhatsApp
             </a>
           </div>
+          <a
+  href="https://www.google.com/maps/search/?api=1&query=F45G%2BXRX%20Dan%20Dume%2C%20Katsina%2C%20Nigeria"
+  target="_blank"
+  rel="noopener noreferrer"
+  className="inline-block bg-blue-700 text-white px-8 py-4 rounded-lg font-bold hover:bg-blue-800 transition"
+>
+  📍 Get Directions
+</a>
 
           {/* Location */}
           <div className="bg-white rounded-2xl p-8 shadow-md text-center">
